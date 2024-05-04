@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# 💤 Vim Ide based on Lazy Vim, configured by Profhameed
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+[My Github Account](https://github.com/Profhameed).
